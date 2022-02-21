@@ -1,6 +1,12 @@
 footer {
   background-color: #fff;
 }
+
 header {
-  margin: 7px;
+  margin: 9px;
+  border: #000;
+}
+
+main {
+  color: #000;
 }
