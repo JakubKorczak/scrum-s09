@@ -5,3 +5,5 @@ function sort() {}
 function filters() {
   console.log("filters");
 }
+
+console.log(object);
