@@ -1,3 +1,5 @@
 console.log("main");
 
-function filters() {}
+function filters() {
+  console.log("filters");
+}
