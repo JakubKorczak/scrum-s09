@@ -6,4 +6,4 @@ function filters() {
   console.log("filters");
 }
 
-console.log(object);
+console.log("db");
